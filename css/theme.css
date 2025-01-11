@@ -1,0 +1,63 @@
+.theme-button {
+    font-weight: bold;
+
+    color: white;
+    background-color: green;
+    padding: 3px;
+
+    outline: none;
+    border: none;
+    border-radius: 3px;
+}
+
+.theme-button:hover {
+    background-color: #007000;
+    cursor: pointer;
+}
+
+.theme-button:disabled {
+    background-color: #94b094;
+}
+
+.theme-input-field {
+    padding: 1px 3px;
+    outline: #007000 solid 1px;
+    border: none;
+    margin: 3px;
+    text-align: center;
+}
+
+.theme-input-field:focus {
+    box-shadow: 1px 1px 3px black;
+}
+
+.theme-modal {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 60%;
+    /*height: 30%;*/
+    padding: 1% 1%;
+
+    background-color: #efefef;
+    border: 1px solid black;
+    box-shadow: 3px 3px 10px black;
+
+    z-index: 10;
+}
+
+.theme-info {
+    font-size: 10px;
+    color: #888888;
+}
+
+.theme-blur {
+    filter: blur(3px);
+}
+
+.theme-emphasis {
+    color: #393939;
+    font-weight: bold;
+}

@@ -1,0 +1,17 @@
+th {
+    position: sticky;
+    top: 0;
+}
+
+.clear-fix {
+    overflow: hidden;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.table-row {
+    position: sticky;
+    left: 0;
+}
