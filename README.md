@@ -8,7 +8,6 @@ No installation of specific tools is required to run this project locally. Simpl
 
 - A web browser (Google Chrome, Firefox, or any modern browser).
 - [Any additional tools or libraries you used, such as npm or frameworks like React, if applicable.]
-
 ## Setup and Installation
 
 ### Step 1: Clone the Repository
