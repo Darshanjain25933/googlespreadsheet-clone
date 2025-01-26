@@ -1,4 +1,4 @@
-# Software Engineer Intern Assignment - Zeotap
+Google Spread Sheet Clone
 
 ## Overview
 This repository contains the code for the assignment given by Zeotap for the Software Engineer Intern position. The application is a web-based solution built with HTML, CSS, and JavaScript.
